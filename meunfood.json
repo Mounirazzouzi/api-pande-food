@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Salade Ceviche Fruit Mer",
+    "price": 85,
+    "id_categories": 1,
+    "desc": "Salade fraîche aux fruits de mer.",
+    "slug": "salade-ceviche-fruit-mer",
+    "image": "images/salad.png"
+  },
+  {
+    "id": 2,
+    "title": "Salade Viet",
+    "price": 75,
+    "id_categories": 1,
+    "desc": "Salade fraîche inspirée de la cuisine vietnamienne.",
+    "slug": "salade-viet",
+    "image": "images/salad_2.png"
+  },
+  {
+    "id": 3,
+    "title": "Salad Gambas Tempura",
+    "price": 75,
+    "id_categories": 1,
+    "desc": "Salade gourmande aux gambas tempura croustillantes.",
+    "slug": "salad-gambas-tempura",
+    "image": "images/salad_gambas_tempura.png"
+  },
+  {
+    "id": 4,
+    "title": "Salad Goa Wakame",
+    "price": 75,
+    "id_categories": 1,
+    "desc": "Salade fraîche au wakame, inspirée des saveurs asiatiques.",
+    "slug": "salad-goa-wakame",
+    "image": "images/salad_wakame.png"
+  },
+  {
+    "id": 5,
+    "title": "Soupe Misou",
+    "price": 45,
+    "id_categories": 2,
+    "desc": "Soupe miso japonaise traditionnelle.",
+    "slug": "soupe-misou",
+    "image": "images/soupe_misou.png"
+  },
+  {
+    "id": 6,
+    "title": "Soupe Thai",
+    "price": 60,
+    "id_categories": 2,
+    "desc": "Soupe thaïlandaise aux saveurs parfumées.",
+    "slug": "soupe-thai",
+    "image": "images/soupe_thai.png"
+  },
+  {
+    "id": 7,
+    "title": "Soupe Tom Yum",
+    "price": 55,
+    "id_categories": 2,
+    "desc": "Soupe thaïlandaise aux saveurs acidulées et épicées.",
+    "slug": "soupe-tom-yum",
+    "image": "images/soupe_tom_yum.png"
+  },
+  {
+    "id": 8,
+    "title": "Soupe Wonton",
+    "price": 50,
+    "id_categories": 2,
+    "desc": "Soupe asiatique traditionnelle aux raviolis wonton.",
+    "slug": "soupe-wonton",
+    "image": "images/soupe_wonton.png"
+  },
+  {
+    "id": 9,
+    "title": "Chiraashi Thon",
+    "price": 65,
+    "id_categories": 3,
+    "desc": "Chirashi japonais au thon servi sur un lit de riz.",
+    "slug": "chiraashi-thon",
+    "image": "images/chiraashi_thon.png"
+  },
+  {
+    "id": 10,
+    "title": "Chirashi Crabe",
+    "price": 75,
+    "id_categories": 3,
+    "desc": "Chirashi japonais au crabe accompagné de riz.",
+    "slug": "chirashi-crabe",
+    "image": "images/chiraashi_crabe.png"
+  },
+  {
+    "id": 11,
+    "title": "Chirashi Mixte",
+    "price": 80,
+    "id_categories": 3,
+    "desc": "Chirashi japonais composé d'un assortiment mixte.",
+    "slug": "chirashi-mixte",
+    "image": "images/chiraashi_mixte.png"
+  },
+  {
+    "id": 12,
+    "title": "Chirashi Saumon",
+    "price": 65,
+    "id_categories": 3,
+    "desc": "Chirashi japonais au saumon servi avec du riz.",
+    "slug": "chirashi-saumon",
+    "image": "images/chiraashi_saumon.png"
+  },
+  {
+    "id": 13,
+    "title": "Poke Norvegien",
+    "price": 90,
+    "id_categories": 4,
+    "desc": "Poke bowl inspiré des saveurs norvégiennes.",
+    "slug": "poke-norvegien",
+    "image": "images/poke_norvegien.png"
+  },
+  {
+    "id": 14,
+    "title": "Poke Salmon",
+    "price": 90,
+    "id_categories": 4,
+    "desc": "Poke bowl au saumon et aux saveurs fraîches.",
+    "slug": "poke-salmon",
+    "image": "images/poke_salmon.png"
+  },
+  {
+    "id": 15,
+    "title": "Poke Shrimp",
+    "price": 90,
+    "id_categories": 4,
+    "desc": "Poke bowl aux crevettes et aux saveurs asiatiques.",
+    "slug": "poke-shrimp",
+    "image": "images/poke_shrimp.png"
+  },
+  {
+    "id": 16,
+    "title": "Poke Veggie",
+    "price": 65,
+    "id_categories": 4,
+    "desc": "Poke bowl végétarien aux ingrédients frais.",
+    "slug": "poke-veggie",
+    "image": "images/poke_veggie.png"
+  }
+]

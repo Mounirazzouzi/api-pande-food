@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Fried Rice Express",
+    "price": 100,
+    "desc": "Offre gourmande de riz sauté aux saveurs asiatiques.",
+    "slug": "fried-rice-express",
+    "image": "images/offe-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Bento Express",
+    "price": 140,
+    "desc": "Un bento complet inspiré de la cuisine japonaise.",
+    "slug": "bento-express",
+    "image": "images/offe-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Yakitori Express",
+    "price": 100,
+    "desc": "Offre japonaise autour des brochettes yakitori.",
+    "slug": "yakitori-express",
+    "image": "images/offer3.png"
+  },
+  {
+    "id": 4,
+    "title": "Sushi Express",
+    "price": 100,
+    "desc": "Une sélection de sushis aux saveurs japonaises.",
+    "slug": "sushi-express",
+    "image": "images/offer-4.png"
+  }
+]

@@ -1,0 +1,24 @@
+[{
+    "id": 1,
+    "name": "Salads",
+    "slug": "salads",
+    "description": "Fresh and healthy salad options"
+}
+,{
+    "id": 2,
+    "name": "Soups",
+    "slug": "soups",
+    "description": "Warm and comforting soups"
+}
+,{
+    "id": 3,
+    "name":"Chirashi",
+    "slug":"chirashi",
+    "description":"Fresh and delicious chirashi bowls"
+}
+,{
+    "id": 4,
+    "name":"Pakes",
+    "slug":"Pakes",
+    "description":"Fresh and delicious pakes bowls"
+}]

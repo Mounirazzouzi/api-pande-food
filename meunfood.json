@@ -87,7 +87,7 @@
     "id_categories": 3,
     "desc": "Chirashi japonais au crabe accompagné de riz.",
     "slug": "chirashi-crabe",
-    "image": "images/chiraashi_crabe.png"
+    "image": "images/chirashi_crabe.png"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "id_categories": 3,
     "desc": "Chirashi japonais composé d'un assortiment mixte.",
     "slug": "chirashi-mixte",
-    "image": "images/chiraashi_mixte.png"
+    "image": "images/chirashi_mixte.png"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "id_categories": 3,
     "desc": "Chirashi japonais au saumon servi avec du riz.",
     "slug": "chirashi-saumon",
-    "image": "images/chiraashi_saumon.png"
+    "image": "images/chirashi_saumon.png"
   },
   {
     "id": 13,

@@ -87,7 +87,7 @@
     "id_categories": 3,
     "desc": "Chirashi japonais au crabe accompagné de riz.",
     "slug": "chirashi-crabe",
-    "image": "images/chiraashi_crabe.png"
+    "image": "images/chirashi_crabe.png"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "id_categories": 3,
     "desc": "Chirashi japonais composé d'un assortiment mixte.",
     "slug": "chirashi-mixte",
-    "image": "images/chiraashi_mixte.png"
+    "image": "images/chirashi_mixte.png"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "id_categories": 3,
     "desc": "Chirashi japonais au saumon servi avec du riz.",
     "slug": "chirashi-saumon",
-    "image": "images/chiraashi_saumon.png"
+    "image": "images/chirashi_saumon.png"
   },
   {
     "id": 13,
@@ -142,5 +142,59 @@
     "desc": "Poke bowl végétarien aux ingrédients frais.",
     "slug": "poke-veggie",
     "image": "images/poke_veggie.png"
+  }  ,
+  {
+    "id": 17,
+    "title": "Coca Cola",
+    "price": 10,
+    "id_categories": 5,
+    "desc": "",
+    "slug": "coca-cola",
+    "image": "images/coca-cola.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Aqua",
+    "price": 6,
+    "id_categories": 5,
+    "desc": "",
+    "slug": "aqua",
+    "image": "images/aqua.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Sprite",
+    "price": 10,
+    "id_categories": 5,
+    "desc": "",
+    "slug": "sprite",
+    "image": "images/sprite.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Pepsi",
+    "price": 10,
+    "id_categories": 5,
+    "desc": "",
+    "slug": "pepsi",
+    "image": "images/pepsi.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Hawai",
+    "price": 10,
+    "id_categories": 5,
+    "desc": "",
+    "slug": "hawai",
+    "image": "images/hawai.webp"
+  },
+  {
+    "id": 22,
+    "title": "Fanta",
+    "price": 10,
+    "id_categories": 5,
+    "desc": "",
+    "slug": "fanta",
+    "image": "images/fata.jpg"
   }
 ]

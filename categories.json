@@ -21,4 +21,9 @@
     "name":"Pakes",
     "slug":"Pakes",
     "description":"Fresh and delicious pakes bowls"
-}]
+}
+,{
+    "id": 5,
+    "name":"Boissons",
+    "slug":"boissons"
+    }]
